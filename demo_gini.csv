@@ -1,0 +1,17 @@
+﻿Shape,Color,Outcome
+Square,Blue,FALSE
+Circle,Green,TRUE
+Square,Blue,TRUE
+Circle,Green,TRUE
+Square,Green,FALSE
+Square,Blue,TRUE
+Square,Green,FALSE
+Circle,Green,TRUE
+Square,Blue,FALSE
+Circle,Green,TRUE
+Square,Green,TRUE
+Circle,Blue,TRUE
+Square,Blue,FALSE
+Circle,Blue,FALSE
+Circle,Green,FALSE
+Square,Green,FALSE
